@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Eyinimofe 👋
 
-<!--
-**mofejo1/mofejo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist & ML Engineer | Data Analyst | Python • SQL • Power BI • Generative AI | Turning Data into Smart Decisions**
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **RAG systems and machine learning models** at Boltfoundry
+- 🌱 I'm currently learning **Advanced Machine Learning, Prompt Engineering, and Model Fine-tuning**
+- 👯 I'm looking to collaborate on **Data Science projects, AI solutions, and Open Source ML tools**
+- 🤔 I'm looking for help with **Deep Learning architectures and MLOps best practices**
+- 💬 Ask me about **Data Analysis, Python, Generative AI, Financial Analytics, or transitioning from Engineering to Data Science**
+- 📫 How to reach me: **eyinimofe98@gmail.com** | [LinkedIn]([https://www.linkedin.com/in/jimoh-onisemo-00131421a/](https://www.linkedin.com/in/jimoh-onisemo-00131421a/)
+- 💼 I'm looking for **Data Science roles where I can learn on the job and grow with a supportive team**
+- ⚡ Fun fact: **I transitioned from analyzing oil wells to analyzing data wells! 🛢️➡️💾**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+- 📊 Interactive Shiny applications for data visualization
+- 🤖 Regression models for market analysis
+- 🔍 Data-driven insights for B2B tech companies
+
+## 🛠️ Tech Stack
+`Python` `R` `SQL` `Power BI` `Excel` `Tableau` `HTML/CSS` `JavaScript`
+
+---
+*Open to Data Science opportunities! Let's connect and build something amazing together.* 🚀
