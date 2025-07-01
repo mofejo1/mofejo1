@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **RAG systems and machine learning models** at Boltfoundry
 - 🌱 I'm currently learning **Advanced Machine Learning, Prompt Engineering, and Model Fine-tuning**
-- - 💼 I'm looking for **Data Science/ML roles where I can learn on the job and grow with a supportive team**
+- 💼 I'm looking for **Data Science/ML roles where I can learn on the job and grow with a supportive team**
 - 👯 I'm looking to collaborate on **Data Science projects, AI solutions, and Open Source ML tools**
 - 🤔 I'm looking for help with **Deep Learning architectures and MLOps best practices**
 - 💬 Ask me about **Data Analysis, Python, Generative AI, Financial Analytics, or transitioning from Engineering to Data Science**
