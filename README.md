@@ -17,7 +17,8 @@
 - 🔍 Data-driven insights for B2B tech companies
 
 ![mofejo1's Stats](https://github-readme-stats.vercel.app/api?username=mofejo1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+![mofejo1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mofejo1&theme=vue-dark&hide_border=true)
+![mofejo1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mofejo1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🛠️ Tech Stack
 `Python` `R` `SQL` `Power BI` `Excel` `HTML/CSS` `JavaScript`
 
