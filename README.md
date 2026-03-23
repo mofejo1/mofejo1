@@ -32,13 +32,8 @@ I'm on a 13-month mission to become an internationally certified AWS DevOps Engi
 
 ## 📚 Current Learning Path (Month 0 - Foundation)
 
-**This Week:**
-- Linux command line mastery (targeting 100+ commands)
-- Git workflow fluency
-- Go fundamentals via freeCodeCamp course
-- Building and deploying first Go applications
 
-**This Quarter:**
+**in 6 months**
 - Complete Go backend development track
 - Master Docker containerization
 - Learn Kubernetes orchestration basics
