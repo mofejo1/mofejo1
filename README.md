@@ -43,7 +43,7 @@ I'm on a 13-month mission to become an internationally certified AWS DevOps Engi
 
 ## 🎯 The Mission
 
-**Goal:** Earn a paid DevOps internship ($3k/month) at Month 12 by being in the top tier of my cohort.
+**Goal:** Earn a paid DevOps internship.
 
 **Strategy:** Running three parallel tracks simultaneously:
 1. **Bootcamp:** Go → JavaScript → Rust → DevOps specialization
