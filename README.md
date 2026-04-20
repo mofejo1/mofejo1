@@ -2,7 +2,7 @@
 
 **Aspiring DevOps Engineer | Go • Docker • Kubernetes • AWS | Building Production Systems from Scratch**
 
-I'm on a 13-month mission to become an internationally certified AWS DevOps Engineer. I don't just learn — I build, deploy, and ship real applications.
+I'm on a mission to become an internationally certified DevOps Engineer. I don't just learn, I build, deploy, and ship real applications.
 
 ---
 
