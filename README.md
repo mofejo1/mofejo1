@@ -17,7 +17,7 @@ I'm on a 13-month mission to become an internationally certified AWS DevOps Engi
 
 ---
 
-## 🚀 What I'm Building This Month
+## 🚀 What I'm Building
 
 - 🔧 REST API with PostgreSQL (deployed to production)
 - 🔗 URL Shortener service with Redis
@@ -30,10 +30,10 @@ I'm on a 13-month mission to become an internationally certified AWS DevOps Engi
 
 ---
 
-## 📚 Current Learning Path (Month 0 - Foundation)
+## 📚 Current Learning Path
 
 
-**in 6 months**
+
 - Complete Go backend development track
 - Master Docker containerization
 - Learn Kubernetes orchestration basics
@@ -50,11 +50,11 @@ I'm on a 13-month mission to become an internationally certified AWS DevOps Engi
 2. **Shadow Certification Path:** Docker → Kubernetes → AWS certifications
 3. **Portfolio:** 10+ deployed, production-ready projects with full CI/CD
 
-**Timeline:**
-- Month 5: CKA (Certified Kubernetes Administrator)
-- Month 6: AWS Certified Cloud Practitioner
-- Month 9: AWS Certified Developer Associate
-- Month 13: AWS Certified DevOps Engineer Professional
+**Certifications i am aiming for :**
+- CKA (Certified Kubernetes Administrator)
+- AWS Certified Cloud Practitioner
+- AWS Certified Developer Associate
+- AWS Certified DevOps Engineer Professional
 
 ---
 
@@ -77,18 +77,6 @@ I'm on a 13-month mission to become an internationally certified AWS DevOps Engi
 **From Previous Experience:**  
 `Python` `JavaScript` `SQL` `HTML/CSS`
 
----
-
-## 💪 Daily Commitment
-
-I'm putting in **40+ hours/week**:
-- 5 hours/day at the learning hub (focused deep work)
-- 1-2 hours/evening (hands-on practice and projects)
-- 8-10 hours/weekend (building and deploying)
-
-**Tracked daily. Reviewed weekly. Executed relentlessly.**
-
----
 
 ## 🤝 Open To
 
@@ -97,13 +85,3 @@ I'm putting in **40+ hours/week**:
 - Code reviews and pair programming
 - Mentorship from experienced DevOps engineers
 - Building in public and learning together
-
----
-
-*12 months. 4 certifications. 10+ deployed projects. One goal: Be undeniable.*
-
-**Let's build.** 🚀
-
----
-
-_Last updated: March 2026_
